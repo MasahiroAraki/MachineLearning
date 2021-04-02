@@ -2,7 +2,10 @@
 
 荒木雅弘著「フリーソフトではじめる機械学習入門 (第2版) Python/Wekaで実践する理論とアルゴリズム」（森北出版 2018年）のサポートページです。
 
-各章の内容をまとめたスライド（PDF, Open Document Presentation形式）と、例題・演習問題のコードを公開しています。
+各章の内容をまとめたスライド（PDFとOpen Document Presentation形式）と、例題・演習問題のコードを公開しています。
 
-スライドについては、第2版に対応したものを順次追加してゆきます。初版のスライドは
+正誤表は
+<a href="https://www.morikita.co.jp/exclusive/download/2038">こちら</a>。
+
+初版のスライドは
 <a href="https://github.com/MasahiroAraki/MachineLearning/tree/master/1st-version/slides">こちら</a>。
