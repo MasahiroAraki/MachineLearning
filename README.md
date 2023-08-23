@@ -1,11 +1,11 @@
-# MachineLearning 2nd edition
+# フリーソフトではじめる機械学習入門 (第2版)
 
-荒木雅弘著「フリーソフトではじめる機械学習入門 (第2版) Python/Wekaで実践する理論とアルゴリズム」（森北出版 2018年）のサポートページです。
+* <a href="https://masahiroaraki.github.io/ja/">荒木雅弘</a> : 『<a href="https://www.morikita.co.jp/books/mid/085212">フリーソフトではじめる機械学習入門 (第2版) Python/Wekaで実践する理論とアルゴリズム</a>』（森北出版，2018年）のサポートページです。
+* スライドと Jupyter notebook: https://masahiroaraki.github.io/MachineLearning/
 
-各章の内容をまとめたスライド（PDFとOpen Document Presentation形式）と、例題・演習問題のコードを公開しています。
+<a href="https://www.morikita.co.jp/books/mid/085212" target="_blank">
+          <img src="https://www.morikita.co.jp/storage/images/cvr/085212cvr.jpg" />
+</a>
 
-正誤表は
-<a href="https://www.morikita.co.jp/exclusive/download/2038">こちら</a>。
-
-初版のスライドは
-<a href="https://github.com/MasahiroAraki/MachineLearning/tree/master/1st-version/slides">こちら</a>。
+* [正誤表](https://www.morikita.co.jp/books/mid/085212) ※出版社のHPにあります
+* 例題・演習問題等の [Python コード](https://github.com/MasahiroAraki/MachineLearning/tree/master/Python)
