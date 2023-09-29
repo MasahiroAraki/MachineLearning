@@ -32,7 +32,7 @@
 
 ### 4. 識別　ー統計的手法ー
 
-* Jupyter Notebook: [chap01.ipynb](https://github.com/MasahiroAraki/MachineLearning/blob/master/Python/chap04.ipynb)
+* Jupyter Notebook: [chap04.ipynb](https://github.com/MasahiroAraki/MachineLearning/blob/master/Python/chap04.ipynb)
 
 <iframe src="https://www.docswell.com/slide/ZEN9DE/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
