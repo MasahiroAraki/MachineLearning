@@ -23,3 +23,29 @@
 * Jupyter Notebook: [chap02.ipynb](https://github.com/MasahiroAraki/MachineLearning/blob/master/Python/chap02.ipynb)
 
 <iframe src="https://www.docswell.com/slide/KW1RLG/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 3. 識別 ー概念学習ー
+
+* Jupyter Notebook: [chap03.ipynb](https://github.com/MasahiroAraki/MachineLearning/blob/master/Python/chap03.ipynb)
+
+<iframe src="https://www.docswell.com/slide/KM1GPX/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 4. 識別　ー統計的手法ー
+
+<iframe src="https://www.docswell.com/slide/ZEN9DE/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 5. 識別　ー生成モデルと識別モデルー
+
+<iframe src="https://www.docswell.com/slide/ZYW9JE/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 6. 回帰
+
+<iframe src="https://www.docswell.com/slide/5NRXPV/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 7. サポートベクターマシン
+
+<iframe src="https://www.docswell.com/slide/Z6Y92E/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+### 8. ニューラルネットワーク
+
+<iframe src="https://www.docswell.com/slide/ZVV93J/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
